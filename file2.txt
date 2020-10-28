@@ -1,1 +1,11 @@
-THis is a new file that i added
+This is a new file that i added
+
+
+
+Create new filr called file3.txt
+commit the change
+
+Edit the content of file3.txt save and commit again
+
+edit both files
+some changes as well
