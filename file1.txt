@@ -6,3 +6,5 @@ We added one file inside called file1.txt
 Git automatically detected the changes
 We commit this changes into local repository
 some changes
+
+I am making some changes fro file1.txt under B20-Day1 Repository
